@@ -55,6 +55,7 @@ Dashboard Features
 * Interactive slicers for filtering the dashboard
 
 Dashboard Screenshot
+
 <img width="357" height="389" alt="Dashboard" src="https://github.com/user-attachments/assets/3834d2a2-1cef-43e2-a45c-1c1e6c29e41c" />
 
 
